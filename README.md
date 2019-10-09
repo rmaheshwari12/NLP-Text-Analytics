@@ -2,8 +2,11 @@
 
 Different exercises and assignments on text mining and analytics using python nltk, gensim, sklearn
 
+-----------
+
 Exercise 1:
 ---
+
 Donald Trump Tweets  - Exploratory data analysis and sentiment analysis
 
 I downloaded President Donald Trumps Tweets from year 2015 to 2019 from http://www.trumptwitterarchive.com/
